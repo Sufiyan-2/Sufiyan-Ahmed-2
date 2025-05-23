@@ -44,7 +44,7 @@
 
 ## 🛠️ Skills & Tools
 
-<img align="right" alt="Demon Slayer Gif" width="500" src="https://raw.githubusercontent.com/Sufiyan-2/Sufiyan-Ahmed-2/main/Demon%20Slayer%20Gif.gif" />
+<img align="right" alt="Demon Slayer Gif" width="550" src="https://raw.githubusercontent.com/Sufiyan-2/Sufiyan-Ahmed-2/main/Demon%20Slayer%20Gif.gif" />
 
 ### Programming & Data
 
