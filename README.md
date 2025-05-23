@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sufiyan-2/Sufiyan-Ahmed-2/main/data-analysis-banner.jpg" alt="Data Analysis Banner" width="100%" />
+  <img src="https://github.com/Sufiyan-2/Sufiyan-Ahmed-2/blob/main/data-analysis-banner.jpg" />
 </p>
 
 <h1 align="center">Hi Everyone 👋, I'm <b>Sufiyan Ahmed Khan</b></h1>
