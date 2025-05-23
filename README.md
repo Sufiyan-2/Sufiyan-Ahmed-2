@@ -1,10 +1,10 @@
 <h1 align="center">Hi Everyone 👋, I'm <b>Sufiyan Ahmed Khan</b></h1>
 <h3 align="center">Data & Business Analyst passionate about turning data into actionable insights.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Sufiyan-2/Sufiyan-Ahmed-2/main/animated%20gif.gif" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sufiyan-02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sufiyan-02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View" />
 </p>
 
 ---
