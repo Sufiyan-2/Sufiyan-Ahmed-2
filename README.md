@@ -38,12 +38,9 @@
   <a href="mailto:sufiyan.email@example.com" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/sufiyan_twitter" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40" />
   </a>
 </p>
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -83,11 +80,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sufiyan-02&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan-02&layout=compact&langs_count=6&theme=dracula" alt="Top Languages" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyan-02&theme=dracula" alt="GitHub Streak" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sufiyan-02&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyan-02&theme=dracula" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+
+
+<img align="center" alt="github-snake" width="1100" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
