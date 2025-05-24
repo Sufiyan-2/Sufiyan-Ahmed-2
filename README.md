@@ -5,7 +5,7 @@
 <h1 align="center">Hi Everyone 👋, I'm <b>Sufiyan Ahmed Khan</b></h1>
 <h3 align="center">Data & Business Analyst passionate about turning data into actionable insights.</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Sufiyan-2/Sufiyan-Ahmed-2/main/animated%20gif.gif" />
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Sufiyan-Ahmed-2/Sufiyan-Ahmed-2/main/animated%20gif.gif" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sufiyan-02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View" />
@@ -23,7 +23,7 @@
 
 ## 📂 Projects & Certifications
 
-- 👨‍💻 View my projects: [GitHub - Sufiyan-2](https://github.com/Sufiyan-2)  
+- 👨‍💻 View my projects: [GitHub - Sufiyan-Ahmed-2](https://github.com/Sufiyan-Ahmed-2)  
 - 🎓 Certifications: [LinkedIn Certifications](https://www.linkedin.com/in/sufiyan777/details/certifications/)  
 - 💼 Professional Experience: [LinkedIn Experience](https://www.linkedin.com/in/sufiyan777/details/experience/)  
 
@@ -44,7 +44,7 @@
 
 ## 🛠️ Skills & Tools
 
-<img align="right" alt="Demon Slayer Gif" width="550" src="https://raw.githubusercontent.com/Sufiyan-2/Sufiyan-Ahmed-2/main/Demon%20Slayer%20Gif.gif" />
+<img align="right" alt="Demon Slayer Gif" width="510" src="https://raw.githubusercontent.com/Sufiyan-2/Sufiyan-Ahmed-2/main/Demon%20Slayer%20Gif.gif" />
 
 ### Programming & Data
 
